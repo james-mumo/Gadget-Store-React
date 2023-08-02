@@ -29,7 +29,7 @@ function Home({sliderRef}) {
         <New sliderRef={sliderRef}/>
         <Deal/>
         <Newsletter/>
-        <Footer/>
+{/*         <Footer/> */}
     </div>
   )
 }
